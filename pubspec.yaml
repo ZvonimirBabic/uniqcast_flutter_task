@@ -16,8 +16,14 @@ dependencies:
   cupertino_icons: ^1.0.2
 
 
+  # https://pub.dev/packages/alice
+  alice: ^0.4.1
+
   # https://pub.dev/packages/get
   get: ^4.6.6
+
+  # https://pub.dev/packages/logger
+  logger: ^2.2.0
 
 dev_dependencies:
   flutter_test:
