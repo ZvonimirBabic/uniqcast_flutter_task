@@ -147,7 +147,7 @@ class DioService extends GetxService {
     /// Error fetching response
     ///
 
-    on DioError catch (e) {
+    on DioException catch (e) {
       if (onError != null) {
         /// Return `onError` and pass error to it
         onError('$e');
