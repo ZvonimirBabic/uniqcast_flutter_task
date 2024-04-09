@@ -19,6 +19,9 @@ dependencies:
   # https://pub.dev/packages/alice
   alice: ^0.4.1
 
+  # https://pub.dev/packages/dio
+  dio: ^5.4.2+1
+
   # https://pub.dev/packages/get
   get: ^4.6.6
 
